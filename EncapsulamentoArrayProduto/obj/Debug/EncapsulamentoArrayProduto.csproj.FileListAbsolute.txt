@@ -1,0 +1,7 @@
+G:\20221\POO noite\EncapsulamentoArrayProduto\bin\Debug\EncapsulamentoArrayProduto.exe.config
+G:\20221\POO noite\EncapsulamentoArrayProduto\bin\Debug\EncapsulamentoArrayProduto.exe
+G:\20221\POO noite\EncapsulamentoArrayProduto\bin\Debug\EncapsulamentoArrayProduto.pdb
+G:\20221\POO noite\EncapsulamentoArrayProduto\obj\Debug\EncapsulamentoArrayProduto.csprojAssemblyReference.cache
+G:\20221\POO noite\EncapsulamentoArrayProduto\obj\Debug\EncapsulamentoArrayProduto.csproj.CoreCompileInputs.cache
+G:\20221\POO noite\EncapsulamentoArrayProduto\obj\Debug\EncapsulamentoArrayProduto.exe
+G:\20221\POO noite\EncapsulamentoArrayProduto\obj\Debug\EncapsulamentoArrayProduto.pdb

@@ -1,0 +1,7 @@
+C:\Users\aluno\Downloads\POO noite\AgregacaoArrayContaCliente\bin\Debug\AgregacaoArrayContaCliente.exe.config
+C:\Users\aluno\Downloads\POO noite\AgregacaoArrayContaCliente\bin\Debug\AgregacaoArrayContaCliente.exe
+C:\Users\aluno\Downloads\POO noite\AgregacaoArrayContaCliente\bin\Debug\AgregacaoArrayContaCliente.pdb
+C:\Users\aluno\Downloads\POO noite\AgregacaoArrayContaCliente\obj\Debug\AgregacaoArrayContaCliente.csprojAssemblyReference.cache
+C:\Users\aluno\Downloads\POO noite\AgregacaoArrayContaCliente\obj\Debug\AgregacaoArrayContaCliente.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO noite\AgregacaoArrayContaCliente\obj\Debug\AgregacaoArrayContaCliente.exe
+C:\Users\aluno\Downloads\POO noite\AgregacaoArrayContaCliente\obj\Debug\AgregacaoArrayContaCliente.pdb

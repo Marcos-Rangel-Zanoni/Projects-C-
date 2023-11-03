@@ -1,0 +1,7 @@
+G:\20221\Nova pasta\POO noite\AgregacaoBibliotecaAluno\bin\Debug\AgregacaoBibliotecaAluno.exe.config
+G:\20221\Nova pasta\POO noite\AgregacaoBibliotecaAluno\bin\Debug\AgregacaoBibliotecaAluno.exe
+G:\20221\Nova pasta\POO noite\AgregacaoBibliotecaAluno\bin\Debug\AgregacaoBibliotecaAluno.pdb
+G:\20221\Nova pasta\POO noite\AgregacaoBibliotecaAluno\obj\Debug\AgregacaoBibliotecaAluno.csprojAssemblyReference.cache
+G:\20221\Nova pasta\POO noite\AgregacaoBibliotecaAluno\obj\Debug\AgregacaoBibliotecaAluno.csproj.CoreCompileInputs.cache
+G:\20221\Nova pasta\POO noite\AgregacaoBibliotecaAluno\obj\Debug\AgregacaoBibliotecaAluno.exe
+G:\20221\Nova pasta\POO noite\AgregacaoBibliotecaAluno\obj\Debug\AgregacaoBibliotecaAluno.pdb

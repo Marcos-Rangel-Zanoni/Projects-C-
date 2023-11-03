@@ -1,0 +1,7 @@
+C:\Users\aluno\Downloads\POO noite\HerancaFuncionario\bin\Debug\HerancaFuncionario.exe.config
+C:\Users\aluno\Downloads\POO noite\HerancaFuncionario\bin\Debug\HerancaFuncionario.exe
+C:\Users\aluno\Downloads\POO noite\HerancaFuncionario\bin\Debug\HerancaFuncionario.pdb
+C:\Users\aluno\Downloads\POO noite\HerancaFuncionario\obj\Debug\HerancaFuncionario.csprojAssemblyReference.cache
+C:\Users\aluno\Downloads\POO noite\HerancaFuncionario\obj\Debug\HerancaFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO noite\HerancaFuncionario\obj\Debug\HerancaFuncionario.exe
+C:\Users\aluno\Downloads\POO noite\HerancaFuncionario\obj\Debug\HerancaFuncionario.pdb

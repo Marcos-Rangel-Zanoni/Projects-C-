@@ -1,0 +1,7 @@
+C:\Users\aluno\Downloads\POO noite\AbstratoCliente\bin\Debug\AbstratoCliente.exe.config
+C:\Users\aluno\Downloads\POO noite\AbstratoCliente\bin\Debug\AbstratoCliente.exe
+C:\Users\aluno\Downloads\POO noite\AbstratoCliente\bin\Debug\AbstratoCliente.pdb
+C:\Users\aluno\Downloads\POO noite\AbstratoCliente\obj\Debug\AbstratoCliente.csprojAssemblyReference.cache
+C:\Users\aluno\Downloads\POO noite\AbstratoCliente\obj\Debug\AbstratoCliente.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO noite\AbstratoCliente\obj\Debug\AbstratoCliente.exe
+C:\Users\aluno\Downloads\POO noite\AbstratoCliente\obj\Debug\AbstratoCliente.pdb

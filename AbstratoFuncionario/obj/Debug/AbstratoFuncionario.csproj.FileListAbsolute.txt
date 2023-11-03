@@ -1,0 +1,7 @@
+G:\POO 20221\POO noite\AbstratoFuncionario\bin\Debug\AbstratoFuncionario.exe.config
+G:\POO 20221\POO noite\AbstratoFuncionario\bin\Debug\AbstratoFuncionario.exe
+G:\POO 20221\POO noite\AbstratoFuncionario\bin\Debug\AbstratoFuncionario.pdb
+G:\POO 20221\POO noite\AbstratoFuncionario\obj\Debug\AbstratoFuncionario.csprojAssemblyReference.cache
+G:\POO 20221\POO noite\AbstratoFuncionario\obj\Debug\AbstratoFuncionario.csproj.CoreCompileInputs.cache
+G:\POO 20221\POO noite\AbstratoFuncionario\obj\Debug\AbstratoFuncionario.exe
+G:\POO 20221\POO noite\AbstratoFuncionario\obj\Debug\AbstratoFuncionario.pdb

@@ -1,0 +1,7 @@
+G:\20221\POO noite\EncapsulamentoConta1\bin\Debug\EncapsulamentoConta1.exe.config
+G:\20221\POO noite\EncapsulamentoConta1\bin\Debug\EncapsulamentoConta1.exe
+G:\20221\POO noite\EncapsulamentoConta1\bin\Debug\EncapsulamentoConta1.pdb
+G:\20221\POO noite\EncapsulamentoConta1\obj\Debug\EncapsulamentoConta1.csprojAssemblyReference.cache
+G:\20221\POO noite\EncapsulamentoConta1\obj\Debug\EncapsulamentoConta1.csproj.CoreCompileInputs.cache
+G:\20221\POO noite\EncapsulamentoConta1\obj\Debug\EncapsulamentoConta1.exe
+G:\20221\POO noite\EncapsulamentoConta1\obj\Debug\EncapsulamentoConta1.pdb

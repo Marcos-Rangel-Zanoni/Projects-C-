@@ -1,0 +1,7 @@
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20221\POO noite\ConstrutorConta\bin\Debug\ConstrutorConta.exe.config
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20221\POO noite\ConstrutorConta\bin\Debug\ConstrutorConta.exe
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20221\POO noite\ConstrutorConta\bin\Debug\ConstrutorConta.pdb
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20221\POO noite\ConstrutorConta\obj\Debug\ConstrutorConta.csprojAssemblyReference.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20221\POO noite\ConstrutorConta\obj\Debug\ConstrutorConta.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20221\POO noite\ConstrutorConta\obj\Debug\ConstrutorConta.exe
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20221\POO noite\ConstrutorConta\obj\Debug\ConstrutorConta.pdb

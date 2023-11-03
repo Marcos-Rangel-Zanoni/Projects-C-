@@ -1,0 +1,7 @@
+G:\20221\Nova pasta\POO noite\AgregacaoVendaProduto\bin\Debug\AgregacaoVendaProduto.exe.config
+G:\20221\Nova pasta\POO noite\AgregacaoVendaProduto\bin\Debug\AgregacaoVendaProduto.exe
+G:\20221\Nova pasta\POO noite\AgregacaoVendaProduto\bin\Debug\AgregacaoVendaProduto.pdb
+G:\20221\Nova pasta\POO noite\AgregacaoVendaProduto\obj\Debug\AgregacaoVendaProduto.csprojAssemblyReference.cache
+G:\20221\Nova pasta\POO noite\AgregacaoVendaProduto\obj\Debug\AgregacaoVendaProduto.csproj.CoreCompileInputs.cache
+G:\20221\Nova pasta\POO noite\AgregacaoVendaProduto\obj\Debug\AgregacaoVendaProduto.exe
+G:\20221\Nova pasta\POO noite\AgregacaoVendaProduto\obj\Debug\AgregacaoVendaProduto.pdb

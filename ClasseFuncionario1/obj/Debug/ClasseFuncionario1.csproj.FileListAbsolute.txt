@@ -1,0 +1,7 @@
+G:\20221\POO noite\ClasseFuncionario1\bin\Debug\ClasseFuncionario1.exe.config
+G:\20221\POO noite\ClasseFuncionario1\bin\Debug\ClasseFuncionario1.exe
+G:\20221\POO noite\ClasseFuncionario1\bin\Debug\ClasseFuncionario1.pdb
+G:\20221\POO noite\ClasseFuncionario1\obj\Debug\ClasseFuncionario1.csprojAssemblyReference.cache
+G:\20221\POO noite\ClasseFuncionario1\obj\Debug\ClasseFuncionario1.csproj.CoreCompileInputs.cache
+G:\20221\POO noite\ClasseFuncionario1\obj\Debug\ClasseFuncionario1.exe
+G:\20221\POO noite\ClasseFuncionario1\obj\Debug\ClasseFuncionario1.pdb

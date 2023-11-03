@@ -1,0 +1,7 @@
+G:\20221\Nova pasta\POO noite\AgregacaoContaCliente\bin\Debug\AgregacaoContaCliente.exe.config
+G:\20221\Nova pasta\POO noite\AgregacaoContaCliente\bin\Debug\AgregacaoContaCliente.exe
+G:\20221\Nova pasta\POO noite\AgregacaoContaCliente\bin\Debug\AgregacaoContaCliente.pdb
+G:\20221\Nova pasta\POO noite\AgregacaoContaCliente\obj\Debug\AgregacaoContaCliente.csprojAssemblyReference.cache
+G:\20221\Nova pasta\POO noite\AgregacaoContaCliente\obj\Debug\AgregacaoContaCliente.csproj.CoreCompileInputs.cache
+G:\20221\Nova pasta\POO noite\AgregacaoContaCliente\obj\Debug\AgregacaoContaCliente.exe
+G:\20221\Nova pasta\POO noite\AgregacaoContaCliente\obj\Debug\AgregacaoContaCliente.pdb

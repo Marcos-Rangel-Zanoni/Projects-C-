@@ -1,0 +1,7 @@
+G:\POO 20221\POO noite\InterfaceAutenticavel\bin\Debug\InterfaceAutenticavel.exe.config
+G:\POO 20221\POO noite\InterfaceAutenticavel\bin\Debug\InterfaceAutenticavel.exe
+G:\POO 20221\POO noite\InterfaceAutenticavel\bin\Debug\InterfaceAutenticavel.pdb
+G:\POO 20221\POO noite\InterfaceAutenticavel\obj\Debug\InterfaceAutenticavel.csprojAssemblyReference.cache
+G:\POO 20221\POO noite\InterfaceAutenticavel\obj\Debug\InterfaceAutenticavel.csproj.CoreCompileInputs.cache
+G:\POO 20221\POO noite\InterfaceAutenticavel\obj\Debug\InterfaceAutenticavel.exe
+G:\POO 20221\POO noite\InterfaceAutenticavel\obj\Debug\InterfaceAutenticavel.pdb
